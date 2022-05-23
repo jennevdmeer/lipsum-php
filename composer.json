@@ -1,5 +1,5 @@
 {
-    "name": "lensmedia/symfony-lipsum",
+    "name": "impulze/symfony-lipsum",
     "description": "Simple PHP lorem ipsum generator with HTML support",
     "type": "library",
     "autoload": {
