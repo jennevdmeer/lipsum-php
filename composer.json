@@ -14,10 +14,13 @@
             "email": "jennevdmeer@impulze.net"
         }
     ],
-    "scripts": {
-        "tests": "vendor/bin/phpunit tests"
+    "require": {
+        "php": ">=8"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
+    },
+    "scripts": {
+        "tests": "vendor/bin/phpunit tests"
     }
 }
