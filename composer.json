@@ -1,0 +1,23 @@
+{
+    "name": "lensmedia/symfony-lipsum",
+    "description": "Simple PHP lorem ipsum generator with HTML support",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Lens\\Component\\Lipsum\\": "src/",
+            "Lens\\Component\\Lipsum\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jenne van der Meer",
+            "email": "jennevdmeer@impulze.net"
+        }
+    ],
+    "scripts": {
+        "tests": "vendor/bin/phpunit tests"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
