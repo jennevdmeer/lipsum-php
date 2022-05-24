@@ -1,6 +1,6 @@
 <?php
 
-namespace Lens\Component\Lipsum;
+namespace Impulze\Lipsum;
 
 class Size
 {

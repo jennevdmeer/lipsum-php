@@ -1,11 +1,11 @@
 <?php
 
-namespace Lens\Component\Lipsum\Elements;
+namespace Impulze\Lipsum\Elements;
 
-use Lens\Component\Lipsum\Dictionary\Dictionary;
-use Lens\Component\Lipsum\Format;
-use Lens\Component\Lipsum\Lipsum;
-use Lens\Component\Lipsum\Size;
+use Impulze\Lipsum\Dictionary\Dictionary;
+use Impulze\Lipsum\Format;
+use Impulze\Lipsum\Lipsum;
+use Impulze\Lipsum\Size;
 
 /**
  * @property-read Dictionary $dictionary

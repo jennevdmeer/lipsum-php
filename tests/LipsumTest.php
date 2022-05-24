@@ -1,7 +1,7 @@
 <?php declare(strict_types=1);
 
-use Lens\Component\Lipsum\Dictionary\Latin;
-use Lens\Component\Lipsum\Lipsum;
+use Impulze\Lipsum\Dictionary\Latin;
+use Impulze\Lipsum\Lipsum;
 use PHPUnit\Framework\TestCase;
 
 final class LipsumTest extends TestCase

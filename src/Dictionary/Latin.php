@@ -1,6 +1,6 @@
 <?php
 
-namespace Lens\Component\Lipsum\Dictionary;
+namespace Impulze\Lipsum\Dictionary;
 
 class Latin extends Dictionary
 {

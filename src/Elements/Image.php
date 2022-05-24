@@ -1,9 +1,9 @@
 <?php
 
-namespace Lens\Component\Lipsum\Elements;
+namespace Impulze\Lipsum\Elements;
 
-use Lens\Component\Lipsum\Lipsum;
-use Lens\Component\Lipsum\Size;
+use Impulze\Lipsum\Lipsum;
+use Impulze\Lipsum\Size;
 use RuntimeException;
 
 trait Image

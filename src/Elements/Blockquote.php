@@ -1,9 +1,9 @@
 <?php
 
-namespace Lens\Component\Lipsum\Elements;
+namespace Impulze\Lipsum\Elements;
 
-use Lens\Component\Lipsum\Format;
-use Lens\Component\Lipsum\Size;
+use Impulze\Lipsum\Format;
+use Impulze\Lipsum\Size;
 
 trait Blockquote
 {

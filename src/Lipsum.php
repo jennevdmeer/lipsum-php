@@ -1,17 +1,17 @@
 <?php
 
-namespace Lens\Component\Lipsum;
+namespace Impulze\Lipsum;
 
-use Lens\Component\Lipsum\Dictionary\Dictionary;
+use Impulze\Lipsum\Dictionary\Dictionary;
 
-use Lens\Component\Lipsum\Elements\Blockquote;
-use Lens\Component\Lipsum\Elements\DefinitionList;
-use Lens\Component\Lipsum\Elements\Header;
-use Lens\Component\Lipsum\Elements\Image;
-use Lens\Component\Lipsum\Elements\OrderedList;
-use Lens\Component\Lipsum\Elements\Paragraph;
-use Lens\Component\Lipsum\Elements\Text;
-use Lens\Component\Lipsum\Elements\UnorderedList;
+use Impulze\Lipsum\Elements\Blockquote;
+use Impulze\Lipsum\Elements\DefinitionList;
+use Impulze\Lipsum\Elements\Header;
+use Impulze\Lipsum\Elements\Image;
+use Impulze\Lipsum\Elements\OrderedList;
+use Impulze\Lipsum\Elements\Paragraph;
+use Impulze\Lipsum\Elements\Text;
+use Impulze\Lipsum\Elements\UnorderedList;
 
 /**
  * @method string blockquote(int $length = Size::Random, int $options = Format::None)
