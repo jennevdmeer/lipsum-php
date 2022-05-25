@@ -44,7 +44,7 @@ trait Image
         }
 
         return sprintf(
-            '<img src="https://placekitten.com/%d/%d" class="%s" alt="Placeholder">',
+            '<img src="https://placekitten.com/%d/%d" class="%s" alt="Placeholder" />',
             $width,
             $height,
             Lipsum::isRandom(.5) ? 'align-left' : 'align-right',
